@@ -31,7 +31,7 @@
 
 | Código | Requisito Funcional                    | Descrição                                                                 |
 |--------|----------------------------------------|---------------------------------------------------------------------------|
-| RF01   | Cadastro de usuário                    | Permitir registro com nome, e-mail e senha.                               |
+| RF01   | Cadastro de usuário (opcional)                   | Permitir registro com nome, e-mail e senha.                               |
 | RF02   | Login/Logout                           | Autenticar usuários e encerrar sessão.                                    |
 | RF03   | Recuperação de senha                   | Enviar e-mail para redefinir senha.                                       |
 | RF04   | Cadastro de local acessível            | Inserir nome, tipo, endereço, acessibilidades, fotos e descrição.         |
@@ -40,7 +40,7 @@
 | RF08   | Busca por região ou tipo de atividade  | Pesquisa por sala, prédio, etc                                            |
 | RF09   | Avaliação de acessibilidade            | Usuários podem avaliar e comentar os locais.                              |
 | RF10   | Geolocalização                         | Marcar local automaticamente ou via mapa.                                 |
-| RF11   | Upload de fotos                        | Enviar imagens do local e suas condições.                                 |
+| RF11   | Upload de fotos    (apenas usuário cadastrado)                    | Enviar imagens do local e suas condições.                                 |
 | RF12   | Cadastro de eventos acessíveis         | Organizações podem divulgar eventos temporários.                          |
 | RF13   | Moderação de conteúdo                  | Aprovação, rejeição ou exclusão de cadastros.                             |
 | RF14   | Notificações                           | Enviar alertas sobre comentários ou novos locais.                         |
