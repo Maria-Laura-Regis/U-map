@@ -37,8 +37,7 @@
 | RF04   | Cadastro de local acessível            | Inserir nome, tipo, endereço, acessibilidades, fotos e descrição.         |
 | RF05   | Edição de local                        | Permitir que usuários editem informações que cadastraram.                 |
 | RF06   | Visualização em mapa                   | Exibir locais cadastrados em mapa interativo.                             |
-            
-| RF08   | Busca por região ou tipo de atividade  | Pesquisa por sala, prédio, etc                           |
+| RF08   | Busca por região ou tipo de atividade  | Pesquisa por sala, prédio, etc                                            |
 | RF09   | Avaliação de acessibilidade            | Usuários podem avaliar e comentar os locais.                              |
 | RF10   | Geolocalização                         | Marcar local automaticamente ou via mapa.                                 |
 | RF11   | Upload de fotos                        | Enviar imagens do local e suas condições.                                 |
