@@ -21,16 +21,27 @@
 
 ## 🚀 Project Structure
 campus-map-api/
+
 ├── .env # Environment variables (DB_URL, JWT_SECRET)
+
 ├── src/
+
 │ ├── config/ # Database connection setup
+
 │ ├── controllers/ # Route handlers (e.g., buildingController.js)
+
 │ ├── models/ # Database models (Prisma/Mongoose)
+
 │ ├── routes/ # API endpoints (e.g., buildingRoutes.js)
+
 │ ├── middlewares/ # Auth/validation middleware
+
 │ ├── utils/ # Helper functions
+
 │ └── server.js # Entry point
+
 ├── prisma/ # Prisma schema (if using Prisma)
+
 └── package.json
 
 ## 🔌 Sample Code Snippets
